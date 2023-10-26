@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.item {
+  width: 25%;
+  text-align: center;
+  margin-right: 1px;
+  color: #7b8794;
+}
+.newitem {
+  color: #2563eb;
+}
+button {
+  background-color: transparent;
+  border: 0px;
+  color: #7b8794;
+  cursor: pointer;
+}
+.togline {
+  border: 1px solid #2563eb;
+}
